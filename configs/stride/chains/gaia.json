@@ -3,7 +3,7 @@
   "value": {
     "key": "wallet",
     "chain-id": "GAIA",
-    "rpc-addr": "http://94.103.85.164:23657",
+    "rpc-addr": "https://gaia-fleet.poolparty.stridenet.co:443",
     "account-prefix": "cosmos",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
